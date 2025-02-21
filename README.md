@@ -1,2 +1,3 @@
 # A-Personal-Privacy-Data-Protection-Scheme-for-Encryption-RHDAD
-This project focuses on securing high-dimensional personal data using AES encryption and efficient revocation mechanisms. It ensures data confidentiality, access control, and dynamic user management.
+
+This project focuses on securing high-dimensional personal data using AES encryption and efficient revocation mechanisms. It ensures data confidentiality, access control, and dynamic user management. Users can only access authorized attributes, and revoked users lose access without requiring re-encryption of the entire dataset. The system is built using HTML, CSS, JavaScript, PHP, and MySQL, with proxy re-encryption for secure key updates. This approach enhances privacy, scalability, and compliance with data protection regulations, making it ideal for safeguarding sensitive information.
